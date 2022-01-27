@@ -1,0 +1,8 @@
+{
+  "name": "microservice2transaction",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
